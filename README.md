@@ -4,6 +4,6 @@
 
 - 🌱 I’m currently working as software developer
 
-- 💞️ I’m looking to collaborate on React, Node js and Spring framework
+- 💞️ I’m looking to collaborate on React, Node js and Spring framework Projects
 
 - 📫 How to reach me? Email: ganeshpc0077@gmail.com
